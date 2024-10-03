@@ -87,7 +87,9 @@ int main() {
     printf("Nombres ordenados: ");
     for (int i = 0; i < cantidad; i++) {
         printf("%s", nombres[i]);
+
         if (i < cantidad - 1) {
+            //Condicion para controlar la cantidad de ","
             printf(", ");
         }
     }
