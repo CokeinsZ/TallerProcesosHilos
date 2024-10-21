@@ -1,0 +1,1 @@
+notepad.exe,calc.exe,winver.exe,mspaint.exe,taskmgr.exe, msedge.exe,msconfig.exe,eventvwr.exe
